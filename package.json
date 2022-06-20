@@ -1,0 +1,20 @@
+{
+  "name": "ccd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varshapun/CCD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varshapun/CCD/issues"
+  },
+  "homepage": "https://varshapun.github.io/CCD"
+}
